@@ -1,0 +1,14 @@
+body {
+  /* background-color: #222; */
+}
+
+* {
+  /* color: #eee; */
+  font-family: 'Fira Code';
+}
+
+div#alert\[NewEvent\] {
+  position: absolute;
+  right: 20px;
+  top: 20px;
+}
